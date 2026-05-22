@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jadsada Thavutiskun 👋
 
-<!--
-**Jadsadar/Jadsadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Artificial Intelligence Engineering student passionate about building practical AI systems, automation workflows, and intelligent applications using machine learning and LLM technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interested In
+- Artificial Intelligence Engineering
+- Machine Learning
+- Data Analytics & Data Science
+- Computer Vision
+- AI Agents & Automation
+- RAG Systems & LLM Applications
+
+---
+
+## 📚 Currently Learning
+- Deep Learning
+- Machine Learning Pipelines
+- AI Workflow Automation
+- OCR & Computer Vision
+- PostgreSQL & Vector Databases
+- Docker & AI Deployment
+- LLM-based Applications
+
+---
+
+## 📫 Contact
+- GitHub: :contentReference[oaicite:0]{index=0}
+- LinkedIn: :contentReference[oaicite:1]{index=1}
+- Email: mayohaiwin@gmail.com
