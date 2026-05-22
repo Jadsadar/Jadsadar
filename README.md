@@ -26,7 +26,6 @@ Artificial Intelligence Engineering student passionate about building practical 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
----
 
 ## 📫 Contact
 
